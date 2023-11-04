@@ -19,3 +19,15 @@ input {
 input:focus {
     outline: none;
 }
+
+@media screen and (max-width:320px) {
+    .search-result-list {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .search-result-list {
+        width: 100%;
+    }
+}
